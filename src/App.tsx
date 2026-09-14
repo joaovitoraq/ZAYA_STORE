@@ -1,8 +1,8 @@
+const logoImg = "/logo.jpeg";
 const logo1 = "/logo.jpeg";
 const logo2 = "/logo.jpeg";
-const logoImg = "/logo.jpeg";
 import React, { useState, useEffect, useMemo, useRef } from "react";
-const logoImg = "/logo.jpeg";
+import logoImg from "//mnt/data/src/assets/505d17c60550e66f-image_1B859668-FFAB-4D9E-B06D-97E6363AA2AD.jpeg";
 import { ShoppingBag, Search, X, Plus, Edit2, Trash2, Check, AlertCircle, Image as ImageIcon, LogOut, Save, Eye, EyeOff } from "lucide-react";
 
 // ---------- SAFE STORAGE ----------

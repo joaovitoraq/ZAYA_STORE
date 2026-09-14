@@ -1,6 +1,6 @@
 {
-  "name": "zaya-store-v13-supabase-final",
-  "version": "13.0.0",
+  "name": "zaya-store-final-fix",
+  "version": "13.1.0",
   "private": true,
   "type": "module",
   "scripts": {
